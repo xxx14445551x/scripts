@@ -1,0 +1,12 @@
+getgenv().scripts = {
+    kat = {
+        name = "KAT",
+        load = "https://raw.githubusercontent.com/xxx14445551x/scripts/refs/heads/main/kat.lua"
+    },
+    katx = {
+        name = "KnifeAbilityTest",
+        load = "https://raw.githubusercontent.com/xxx14445551x/scripts/refs/heads/main/katx.lua"
+    }
+}
+
+return getgenv().scripts
