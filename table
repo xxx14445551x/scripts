@@ -6,6 +6,10 @@ getgenv().scripts = {
     katx = {
         name = "KnifeAbilityTest",
         load = "https://raw.githubusercontent.com/xxx14445551x/scripts/refs/heads/main/katx.lua"
+    },
+    rost = {
+        name = "Rost Alpha",
+        load = "https://raw.githubusercontent.com/xxx14445551x/scripts/refs/heads/main/rost.lua"
     }
 }
 
